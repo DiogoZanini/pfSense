@@ -7,7 +7,7 @@ Default gateway for the virtual lab network, handling routing and firewall rules
 - [Oracle VirtualBox](https://www.virtualbox.org/) — Virtualization platform;
 - [pfSense CE](https://shop.netgate.com/products/netgate-installer) — Netgate Installer ISO.
 
-## Getting Started / Installation / Usage
+## Getting Started
 <details>
   <summary>Virtual Machine configuration</summary>
 

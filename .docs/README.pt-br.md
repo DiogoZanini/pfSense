@@ -7,7 +7,7 @@ Gateway padrão da rede do laboratório virtual, responsável pelo roteamento e 
 - [Oracle VirtualBox](https://www.virtualbox.org/) — Plataforma de virtualização;
 - [pfSense CE](https://shop.netgate.com/products/netgate-installer) — ISO do Netgate Installer.
 
-## Primeiros Passos / Instalação / Uso
+## Primeiros Passos
 <details>
   <summary>Configuração da Máquina Virtual</summary>
 
