@@ -3,6 +3,8 @@ Default gateway for the virtual lab network, handling routing and firewall rules
 
 [**PT-BR**](./docs/README.pt-br.md)
 
+![pfSense_Dashboard](.docs\pfSense_dashboard.png)
+
 ## Dependencies
 - [Oracle VirtualBox](https://www.virtualbox.org/) — Virtualization platform;
 - [pfSense CE](https://shop.netgate.com/products/netgate-installer) — Netgate Installer ISO.
