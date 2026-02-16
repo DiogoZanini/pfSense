@@ -3,6 +3,8 @@ Gateway padrão da rede do laboratório virtual, responsável pelo roteamento e 
 
 [**EN-US**](../README.md)
 
+![pfSense_Dashboard](./pfSense_dashboard.png)
+
 ## Dependências
 - [Oracle VirtualBox](https://www.virtualbox.org/) — Plataforma de virtualização;
 - [pfSense CE](https://shop.netgate.com/products/netgate-installer) — ISO do Netgate Installer.
