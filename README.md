@@ -52,8 +52,8 @@ Default gateway for the virtual lab network, handling routing and firewall rules
 <details>
   <summary>Updating pfSense</summary>
 
-  1. **Backup current config:** Diagnostics → Backup & Restore → Download configuration as XML
-  2. **Remove installed packages:** System → Package Manager → Installed Packages
-  3. **Update the system:** System → Update → Confirm
-  4. **If something goes wrong, restore the backup at** Diagnostics → Backup & Restore
+  1. **Backup current config:** Diagnostics → Backup & Restore → Download configuration as XML;
+  2. **Remove installed packages:** System → Package Manager → Installed Packages;
+  3. **Update the system:** System → Update → Confirm;
+  4. **If something goes wrong, restore the backup at** Diagnostics → Backup & Restore.
 </details>
